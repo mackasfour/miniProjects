@@ -1,2 +1,2 @@
 # miniProjects
-Personal projects for learning
+Personal projects for self-education
